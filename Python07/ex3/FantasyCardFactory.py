@@ -13,7 +13,7 @@ class FantasyCardFactory(CardFactory):
         if name_or_power == 'dragon':
             return CreatureCard('Fire Dragon', 5, 'Legendary', 7, 5)
         elif name_or_power == 'goblin':
-            return CreatureCard('Goblin Warior', 2, 'Mythic', 5, 1)
+            return CreatureCard('Goblin Warrior', 2, 'Mythic', 5, 1)
         return CreatureCard('Cute Unicorn', 1, 'Banal', 1, 1)
 
     def create_spell(self, name_or_power: str | int | None = None) -> Card:

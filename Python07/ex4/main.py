@@ -31,7 +31,7 @@ if __name__ == "__main__":
     print("Match result:", platform.create_match("dragon_001", "wizard_001"))
     print()
 
-    print("Tournament Leaderboard::")
+    print("Tournament Leaderboard:")
     for entry in platform.get_leaderboard():
         print(entry)
 
