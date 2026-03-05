@@ -36,7 +36,7 @@ PythonPool/
 | 01 | **CodeCultivation — Object-Oriented Garden Systems** | Classes, methods, encapsulation, modeling | `Module01/` |
 | 02 | **Garden Guardian — Data Engineering for Smart Agriculture** | Exceptions, custom errors, cleanup (`finally`), resilient logic | `Module02/` |
 | 03 | **The Codex — Mastering Python’s Import Mysteries** | Packages, `__init__.py`, absolute vs relative imports, circular dependencies | `Module03/` |
-| 04 | **Cyber Archives — File & Stream Operations (from repo code)** | File I/O, stream handling, safe resource management | `Module04/` |
+| 04 | **Cyber Archives — File & Stream Operations** | File I/O, stream handling, safe resource management | `Module04/` |
 | 05 | **Data Quest — Mastering Python Collections for Data Engineering** | Lists, tuples, sets, dictionaries, comprehensions, generators, pipelines | `Module05/` |
 | 06 | **The Matrix — Real-World Data Engineering Setup** | Virtual environments, packaging, configuration mindset | `Module06/` |
 | 07 | **DataDeck — Abstract Card Architecture** | Abstract Base Classes, interfaces, multiple inheritance, Strategy & Abstract Factory patterns | `Module07/` |
@@ -46,7 +46,7 @@ PythonPool/
 
 ---
 
-## ⭐ Highlights (Recruiter-Relevant Engineering Skills)
+## ⭐ Highlights
 
 ### ✅ Software Design & Architecture
 
@@ -115,7 +115,7 @@ python3 Module09/ex0/space_station.py
 
 - Expressions, variables, and control flow
 
--Functions and basic problem-solving
+- Functions and basic problem-solving
 
 - Introduction to type annotations
 
@@ -247,5 +247,8 @@ python3 Module09/ex0/space_station.py
 
 ## 👤 Author
 
-Walid Krati
-Software Engineering Student — Python • Backend • Architecture
+# Walid Krati
+
+#### Software Engineering Student • Backend • Architecture
+
+
