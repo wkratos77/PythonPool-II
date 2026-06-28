@@ -9,6 +9,13 @@
 This repository contains my implementations for each module in the curriculum.  
 Each module is built as a standalone learning unit and targets one major concept area (fundamentals → OOP → robustness → architecture → tooling → abstractions → FP).
 
+## Quick Overview
+
+- **Built with:** Python
+- **Focus:** Python fundamentals, OOP, functional programming, Pydantic, and clean project organization.
+- **What I learned:** Writing cleaner Python code, structuring projects, using models, and practicing different programming styles.
+
+
 ---
 
 ## 📁 Repository Structure
